@@ -61,7 +61,7 @@ Prerequisites
 
 Installation
 # Clone the repository
-git clone https://github.com/your-org/bizapp-nlg.git
+git clone https://github.com/bizapp-nlg/bizapp-nlg.git
 cd bizapp-nlg
 
 # Restore dependencies
