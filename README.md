@@ -43,7 +43,7 @@
 
 ## 📁 Folder Structure
 
-bash
+```bash
 bizapp-nlg/
 ├── booking/            # Booking and reservation APIs
 ├── ewallet/            # FnB Wallet APIs
@@ -51,7 +51,7 @@ bizapp-nlg/
 ├── crm/                # Customer relationship management APIs
 ├── shared/             # Common libraries and configurations
 └── docs/               # API documentation and workflow guides
-
+```
 🚀 Getting Started
 
 Prerequisites
